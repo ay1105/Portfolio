@@ -1,0 +1,24 @@
+# Ignore deployment documentation
+DEPLOYMENT.md
+
+# Ignore any temporary files
+*.tmp
+*.log
+
+# Ignore any IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Keep all other files for deployment
+!index.html
+!*.pdf
+!*.webp
+!*.jpg
+!*.png
+!*.css
+!*.js
+!vercel.json
+!package.json
+!README.md

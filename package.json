@@ -1,0 +1,20 @@
+{
+  "name": "aditya-yadav-portfolio",
+  "version": "1.0.0",
+  "description": "Aditya Yadav's Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required for static site'",
+    "start": "echo 'Static site - serve index.html'"
+  },
+  "keywords": [
+    "portfolio",
+    "web-developer",
+    "full-stack",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Aditya Yadav",
+  "license": "MIT"
+}
