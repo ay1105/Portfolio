@@ -5,4 +5,11 @@
       "destination": "/index.html"
     }
   ]
+
+}
+
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
 }
